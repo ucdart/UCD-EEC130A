@@ -2,4 +2,4 @@
 
 Python scripts illustrating some common examples in electromagnetics
 
-Tested with Spyder (through Anaconda) on Windows7
+Tested with Spyder/IPython console (through Anaconda) on Windows7
